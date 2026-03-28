@@ -2,15 +2,15 @@
 
 <div align="center">
 
-### Builder | AI Workflow Hacker | Practical Systems Engineer
+### Personal AI OS Builder | Agent Systems Tinkerer | Practical Product Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=820&lines=Building+AI+systems+that+actually+ship;Designing+knowledge+and+automation+workflows;Turning+messy+inputs+into+useful+tools;Exploring+agents%2C+infra%2C+and+product+execution)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=900&lines=Building+a+personal+AI+operating+system;Designing+agent+workflows+and+knowledge+loops;Turning+signal+overload+into+structured+outputs;Exploring+sandboxed+execution%2C+automation%2C+and+MVPs)](https://git.io/typing-svg)
 
 </div>
 
 ## What I Do
 
-I build practical tools around AI, automation, and knowledge workflows. Most of my work is about reducing friction: turning scattered inputs, repetitive steps, and vague ideas into systems that are easier to use and easier to extend.
+I build practical systems around AI, automation, and knowledge workflows. Most of what I care about is reducing friction: turning noisy inputs, repeated actions, and half-formed ideas into tools that can actually run every day.
 
 ```python
 class AboutMe:
@@ -18,19 +18,27 @@ class AboutMe:
         self.name = "huanghuiqiang"
         self.base = "Shenzhen"
         self.focus = [
-            "AI-native workflows",
-            "Knowledge systems and personal infrastructure",
-            "Automation that removes real operational friction",
-            "Small products with clear utility",
+            "Personal AI infrastructure",
+            "Agent workflows and tool orchestration",
+            "Knowledge systems that compound over time",
+            "Small useful products with clear utility",
         ]
 ```
 
 ## Current Themes
 
-![AI](https://img.shields.io/badge/Focus-AI%20Workflows-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Focus-Automation-0F766E?style=for-the-badge&logo=zapier&logoColor=white)
-![Knowledge](https://img.shields.io/badge/Focus-Knowledge%20Systems-1D4ED8?style=for-the-badge&logo=obsidian&logoColor=white)
-![Agents](https://img.shields.io/badge/Focus-Agents-7C3AED?style=for-the-badge&logo=googleassistant&logoColor=white)
+![AI OS](https://img.shields.io/badge/Focus-Personal%20AI%20OS-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Focus-Automation%20Loops-0F766E?style=for-the-badge&logo=zapier&logoColor=white)
+![Knowledge](https://img.shields.io/badge/Focus-Knowledge%20Infrastructure-1D4ED8?style=for-the-badge&logo=obsidian&logoColor=white)
+![Agents](https://img.shields.io/badge/Focus-Agent%20Workflows-7C3AED?style=for-the-badge&logo=googleassistant&logoColor=white)
+
+## What I'm Building
+
+- [AntigravityOS](https://github.com/huanghuiqiang/AntigravityOS): a personal AI operating system that turns incoming information into structured knowledge assets through agents, Telegram, and workflow automation
+- [agent-sandbox-lab](https://github.com/huanghuiqiang/agent-sandbox-lab): a zero-trust sandbox execution experiment for running AI-generated code with hard isolation
+- [logistics-agent](https://github.com/huanghuiqiang/logistics-agent): a deliberately minimal agent MVP for routing, tool use, retrieval, and structured answers
+- [Cognitive-Bouncer](https://github.com/huanghuiqiang/Cognitive-Bouncer): a filtering layer aimed at improving signal quality before information enters downstream systems
+- [fastapi-seckill-lab](https://github.com/huanghuiqiang/fastapi-seckill-lab): backend experiments around concurrency, system boundaries, and implementation discipline
 
 ## Stack
 
@@ -55,19 +63,12 @@ class AboutMe:
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-## Selected Projects
-
-- [AntigravityOS](https://github.com/huanghuiqiang/AntigravityOS): a personal operating system for collecting, filtering, and transforming information into useful outputs
-- [Cognitive-Bouncer](https://github.com/huanghuiqiang/Cognitive-Bouncer): an AI guardrail and filtering layer for better signal quality
-- [logistics-agent](https://github.com/huanghuiqiang/logistics-agent): a logistics knowledge base and shipment tracking agent MVP
-- [agent-sandbox-lab](https://github.com/huanghuiqiang/agent-sandbox-lab): experiments around agent execution and sandboxed workflows
-- [fastapi-seckill-lab](https://github.com/huanghuiqiang/fastapi-seckill-lab): practical backend experiments under high-concurrency constraints
-
 ## Working Style
 
-- Bias toward useful systems over flashy demos
-- Prefer simple architecture, fast iteration, and clear interfaces
-- Interested in AI products, automation loops, infrastructure, and personal knowledge tooling
+- Bias toward useful systems over decorative demos
+- Prefer small reversible building blocks over oversized architecture
+- Interested in AI products, automation loops, infra, and long-term knowledge tooling
+- Treat learning projects as systems design practice, not just code exercises
 
 ## GitHub Activity
 
