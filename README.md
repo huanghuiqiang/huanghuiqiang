@@ -1,4 +1,4 @@
-# Hi, I'm huanghuiqiang
+# Hi, I'm AICatKing
 
 <div align="center">
 
@@ -13,7 +13,7 @@ I build practical systems around AI, automation, and knowledge workflows. My cur
 ```python
 class AboutMe:
     def __init__(self):
-        self.name = "huanghuiqiang"
+        self.name = "AICatKing"
         self.base = "Shenzhen"
         self.focus = [
             "Personal AI infrastructure",
@@ -33,11 +33,11 @@ class AboutMe:
 
 ## Selected Systems
 
-- [AntigravityOS](https://github.com/huanghuiqiang/AntigravityOS): a personal AI operating system for converting incoming information into structured knowledge assets through agents, Telegram, and automation workflows
-- [agent-sandbox-lab](https://github.com/huanghuiqiang/agent-sandbox-lab): a zero-trust execution sandbox for running AI-generated code under hard isolation constraints
-- [logistics-agent](https://github.com/huanghuiqiang/logistics-agent): a minimal agent MVP focused on routing, tool use, retrieval, and structured responses
-- [Cognitive-Bouncer](https://github.com/huanghuiqiang/Cognitive-Bouncer): a filtering layer for improving signal quality before information enters downstream workflows
-- [fastapi-seckill-lab](https://github.com/huanghuiqiang/fastapi-seckill-lab): backend experiments around concurrency, service boundaries, and implementation discipline
+- [AntigravityOS](https://github.com/AICatKing/AntigravityOS): a personal AI operating system for converting incoming information into structured knowledge assets through agents, Telegram, and automation workflows
+- [agent-sandbox-lab](https://github.com/AICatKing/agent-sandbox-lab): a zero-trust execution sandbox for running AI-generated code under hard isolation constraints
+- [logistics-agent](https://github.com/AICatKing/logistics-agent): a minimal agent MVP focused on routing, tool use, retrieval, and structured responses
+- [Cognitive-Bouncer](https://github.com/AICatKing/Cognitive-Bouncer): a filtering layer for improving signal quality before information enters downstream workflows
+- [fastapi-seckill-lab](https://github.com/AICatKing/fastapi-seckill-lab): backend experiments around concurrency, service boundaries, and implementation discipline
 
 ## Stack
 
@@ -73,9 +73,9 @@ class AboutMe:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huanghuiqiang&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2A8&ring=00C2A8&fire=F97316&currStreakLabel=00C2A8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AICatKing&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2A8&ring=00C2A8&fire=F97316&currStreakLabel=00C2A8)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanghuiqiang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AICatKing&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -83,7 +83,7 @@ class AboutMe:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huanghuiqiang)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AICatKing)
 [![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huanghuiqiang86@gmail.com)
 
 </div>
