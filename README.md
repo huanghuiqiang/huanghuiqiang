@@ -2,15 +2,13 @@
 
 <div align="center">
 
-### Personal AI OS Builder | Agent Systems Tinkerer | Practical Product Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=900&lines=Building+a+personal+AI+operating+system;Designing+agent+workflows+and+knowledge+loops;Turning+signal+overload+into+structured+outputs;Exploring+sandboxed+execution%2C+automation%2C+and+MVPs)](https://git.io/typing-svg)
+### Independent Researcher in AI Systems, Automation, and Knowledge Workflows
 
 </div>
 
-## What I Do
+## Overview
 
-I build practical systems around AI, automation, and knowledge workflows. Most of what I care about is reducing friction: turning noisy inputs, repeated actions, and half-formed ideas into tools that can actually run every day.
+I build practical systems around AI, automation, and knowledge workflows. My current work is centered on a simple question: how can personal software move from passive storage toward active, reliable, and compounding assistance?
 
 ```python
 class AboutMe:
@@ -21,24 +19,25 @@ class AboutMe:
             "Personal AI infrastructure",
             "Agent workflows and tool orchestration",
             "Knowledge systems that compound over time",
-            "Small useful products with clear utility",
+            "Applied research through working software",
         ]
 ```
 
-## Current Themes
+## Research Directions
 
-![AI OS](https://img.shields.io/badge/Focus-Personal%20AI%20OS-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Focus-Automation%20Loops-0F766E?style=for-the-badge&logo=zapier&logoColor=white)
-![Knowledge](https://img.shields.io/badge/Focus-Knowledge%20Infrastructure-1D4ED8?style=for-the-badge&logo=obsidian&logoColor=white)
-![Agents](https://img.shields.io/badge/Focus-Agent%20Workflows-7C3AED?style=for-the-badge&logo=googleassistant&logoColor=white)
+- Personal AI operating systems
+- Agent workflow design and tool orchestration
+- Knowledge capture, filtering, and synthesis
+- Sandboxed execution for safer AI-assisted systems
+- Small, testable MVPs as a way to study system behavior
 
-## What I'm Building
+## Selected Systems
 
-- [AntigravityOS](https://github.com/huanghuiqiang/AntigravityOS): a personal AI operating system that turns incoming information into structured knowledge assets through agents, Telegram, and workflow automation
-- [agent-sandbox-lab](https://github.com/huanghuiqiang/agent-sandbox-lab): a zero-trust sandbox execution experiment for running AI-generated code with hard isolation
-- [logistics-agent](https://github.com/huanghuiqiang/logistics-agent): a deliberately minimal agent MVP for routing, tool use, retrieval, and structured answers
-- [Cognitive-Bouncer](https://github.com/huanghuiqiang/Cognitive-Bouncer): a filtering layer aimed at improving signal quality before information enters downstream systems
-- [fastapi-seckill-lab](https://github.com/huanghuiqiang/fastapi-seckill-lab): backend experiments around concurrency, system boundaries, and implementation discipline
+- [AntigravityOS](https://github.com/huanghuiqiang/AntigravityOS): a personal AI operating system for converting incoming information into structured knowledge assets through agents, Telegram, and automation workflows
+- [agent-sandbox-lab](https://github.com/huanghuiqiang/agent-sandbox-lab): a zero-trust execution sandbox for running AI-generated code under hard isolation constraints
+- [logistics-agent](https://github.com/huanghuiqiang/logistics-agent): a minimal agent MVP focused on routing, tool use, retrieval, and structured responses
+- [Cognitive-Bouncer](https://github.com/huanghuiqiang/Cognitive-Bouncer): a filtering layer for improving signal quality before information enters downstream workflows
+- [fastapi-seckill-lab](https://github.com/huanghuiqiang/fastapi-seckill-lab): backend experiments around concurrency, service boundaries, and implementation discipline
 
 ## Stack
 
@@ -63,12 +62,12 @@ class AboutMe:
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-## Working Style
+## Working Approach
 
-- Bias toward useful systems over decorative demos
-- Prefer small reversible building blocks over oversized architecture
-- Interested in AI products, automation loops, infra, and long-term knowledge tooling
-- Treat learning projects as systems design practice, not just code exercises
+- Prefer working systems over polished promises
+- Use small, reversible building blocks instead of oversized architecture
+- Treat prototypes as a form of applied research
+- Focus on clarity, observability, and long-term maintainability
 
 ## GitHub Activity
 
@@ -86,13 +85,5 @@ class AboutMe:
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huanghuiqiang)
 [![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huanghuiqiang86@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=huanghuiqiang&color=00C2A8&style=flat-square)](https://github.com/huanghuiqiang)
 
 </div>
